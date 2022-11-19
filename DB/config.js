@@ -1,8 +1,8 @@
 let config = {
-    HOST: 'localhost',
-    USER: 'root',
-    PASSWORD: 'mustarel2002',
-    DB: 'calin',
+    HOST: '######',
+    USER: '#####',
+    PASSWORD: '######',
+    DB: '#######',
     dialect: 'mysql'
 };
 
